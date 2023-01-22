@@ -1,5 +1,5 @@
 let  nums = [2,7,11,15], target = 9
-
+// jkhkjkk
 var twoSum = function(nums, target) {
     for(let i=0;i<=nums.length-1;i++)
 {
